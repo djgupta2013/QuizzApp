@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#66b94c</color>
+    <color name="colorPrimaryDark">#66b94c</color>
+    <color name="colorAccent">#66b94c</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="blue">#2d7df6</color>
+    <color name="lite_primary">#96EC7B</color>
+    <color name="lite_primary1">#C7D5C4</color>
+    <color name="background_color">#f6f9fe</color>
+    <color name="blue_lite">#3289bf</color>
+    <color name="yellow">#fbb717</color>
+    <color name="orange">#ff8900</color>
+    <color name="lite_yellow">#FAE18D</color>
+    <color name="chat_color1">#fdf3ba</color>
+    <color name="chat_color2">#c0e4cd</color>
+    <color name="green">#1c9c4c</color>
+    <color name="lite_green">#A3EFBF</color>
+    <color name="cardColor">#75A167</color>
+    <color name="red">#ff0000</color>
+    <color name="grey_lite_border">#E4E3E3</color>
+    <color name="hintColor">#B6B6B6</color>
+    <color name="tabTextColor">#c8c8c9</color>
+    <color name="hover_color">#FFFF</color>
+    <color name="lightgray">#f1f1f2</color>
+    <color name="white_light">#CECED1</color>
+    <color name="grey_lite">#E0E0E0</color>
+    <color name="grey_dark">#535353</color>
+    <color name="black">#000000</color>
+    <color name="login_gradient">#d7e9d3</color>
+    <color name="lite_blue">#f3fbfe</color>
+    <color name="splash_color">#d7e9d3</color>
+    <color name="text_black">#4a4a4a</color>
+    <color name="path_color">#534cfd</color>
+    <color name="path_color1">#a7dc1c</color>
+    <color name="enter_otp_color">#029346</color>
+</resources>

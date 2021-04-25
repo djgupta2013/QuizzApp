@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">QuizzApp</string>
+    <string name="here_you_can_play_daily">Here you can play daily wise quiz and some \n other like
+    General knowledge quiz also.</string>
+    <string name="welcome_to_quiz">Welcome To Quiz</string>
+    <string name="lets_start">Lets Start</string>
+    <string name="_91">+91</string>
+    <string name="login">Login</string>
+    <string name="login_to_your_account">Login to Your Account</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="daily">Daily</string>
+    <string name="all_quiz">All Quiz</string>
+    <string name="about">About</string>
+</resources>
